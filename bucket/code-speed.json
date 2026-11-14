@@ -16,7 +16,7 @@
     "shortcuts": [
         [
             "code-speed.exe",
-            "Code Speed"
+            "code-speed"
         ]
     ],
     "checkver": "github",
