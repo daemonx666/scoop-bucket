@@ -1,16 +1,16 @@
 {
-    "version": "0.1.2",
+    "version": "0.1.3",
     "description": "Live token speed, usage, cost and quotas of coding agents, in the system tray.",
     "homepage": "https://github.com/daemonx666/code-speed",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/daemonx666/code-speed/releases/download/v0.1.2/code-speed-v0.1.2-windows-amd64-portable.zip",
-            "hash": "5f674d6fd5507d213a4de1382c7f5310f0806650f7436f737b4d54c6dc39cbe7"
+            "url": "https://github.com/daemonx666/code-speed/releases/download/v0.1.3/code-speed-v0.1.3-windows-amd64-portable.zip",
+            "hash": "093b179e8d857a3e02bc984d442b893bbadc31eda67004dd3335df4883a15a78"
         },
         "arm64": {
-            "url": "https://github.com/daemonx666/code-speed/releases/download/v0.1.2/code-speed-v0.1.2-windows-arm64-portable.zip",
-            "hash": "c3ae14b59a31c669b7505a08faf1619d0bea95f06b3660b29c4994192af66b7d"
+            "url": "https://github.com/daemonx666/code-speed/releases/download/v0.1.3/code-speed-v0.1.3-windows-arm64-portable.zip",
+            "hash": "c32166bb0f832f19a2f1540b12028e0aa9097404a34ef089f8365b558b5f0893"
         }
     },
     "shortcuts": [
